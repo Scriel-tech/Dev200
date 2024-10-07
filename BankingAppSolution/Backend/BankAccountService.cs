@@ -8,7 +8,7 @@ namespace Backend
 {
     public class BankAccountService : AccountService
     {
-        private readonly SystemDB systemDB;
+        //private readonly SystemDB systemDB;
 
         public BankAccountService()
         {
